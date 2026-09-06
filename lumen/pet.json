@@ -3,5 +3,12 @@
   "displayName": "Lumen",
   "description": "A sealed lamp adrift in the dark. Its shell stays dark and its core takes the accent colour.",
   "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "accent": {
+    "from": 165,
+    "to": 225,
+    "feather": 12,
+    "minSat": 0.18,
+    "refSat": 0.42
+  }
 }

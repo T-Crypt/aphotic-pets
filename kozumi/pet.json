@@ -3,5 +3,12 @@
   "displayName": "Kozumi",
   "description": "A small figure at a laptop, in a dark coat trimmed in the accent colour.",
   "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "accent": {
+    "from": 320,
+    "to": 15,
+    "feather": 6,
+    "minSat": 0.20,
+    "refSat": 0.38
+  }
 }

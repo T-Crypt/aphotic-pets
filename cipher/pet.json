@@ -3,5 +3,12 @@
   "displayName": "Cipher",
   "description": "A developer at a floating console, with his jacket seams, circuitry and interface glow in the accent colour.",
   "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "accent": {
+    "from": 205,
+    "to": 285,
+    "feather": 10,
+    "minSat": 0.18,
+    "refSat": 0.38
+  }
 }
