@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher",
+  "spritesheet": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/final/spritesheet-extended.webp",
+  "validation": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/final/validation-extended.json",
+  "chroma_despill": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/qa/chroma-despill-extended.json",
+  "contact_sheet": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/qa/contact-sheet-extended.png",
+  "direction_sheet": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/qa/look-directions.png",
+  "direction_semantics": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/qa/direction-semantics.json",
+  "blind_direction_validation": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/qa/direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/qa/look-continuity.json",
+  "review": "/home/tcrypt/Aphotic-Hypr/pet-runs/cipher/qa/review.json",
+  "package": "/home/tcrypt/.codex/pets/cipher"
+}
